@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    background-color: #5c5ced;
+}
+
+nav{
+    background-color:#49f395;
+}
+
+.section-color{
+    background-color: #f7bc46;
+}
+
+
+aside{
+    background-color: #f87e52;
+}
+
+section div{
+    background-color: #49f395;
+}
+
+footer{
+    background-color: #f6581e;
+}
